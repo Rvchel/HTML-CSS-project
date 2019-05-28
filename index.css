@@ -1,0 +1,51 @@
+body {
+    background-color: blue;
+}
+
+nav {
+    
+    color: white;
+    display: flex;
+    justify-content: center;
+    justify-content: space-between
+}
+#toplinks {
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-basis: 400px;
+}
+main {
+    color: white;
+    display: flex; 
+    justify-content: center;
+    margin-top: 200px;
+    text-align: center;
+    margin-left: 400px;
+    margin-right: 400px;
+}
+#aside2 {
+    color: White;
+    display: flex;
+    flex-direction: column-reverse;
+    right: 200px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    writing-mode: vertical-lr;
+    text-orientation: upright;
+    text-orientation: sideways-right;
+    font-size: 10px;
+    margin-bottom: 300px;
+    
+    
+    
+
+}
+#start {
+    font-size: 10px;
+}
+#dis {
+    font-size: 50px;
+}
+
